@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\bin\Debug\EarlySudokuSolver.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\bin\Debug\EarlySudokuSolver.exe
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\bin\Debug\EarlySudokuSolver.pdb
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\obj\Debug\EarlySudokuSolver.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\obj\Debug\EarlySudokuSolver.exe
+c:\users\michael\documents\visual studio 2015\Projects\EarlySudokuSolver\EarlySudokuSolver\obj\Debug\EarlySudokuSolver.pdb
